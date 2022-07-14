@@ -42,7 +42,7 @@
 -----
 
 <p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/script-php?style=for-the-badge&logo=stylelint&color=Crimson">
-  <img src="https://komarev.com/ghpvc/?username=script-php&style=for-the-badge&logo=Streamlit&color=crimson&logo=Bookmeter">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/script-php?style=for-the-badge&logo=Streamlit&color=Crimson">
+  <img alt="Followers" src="https://img.shields.io/github/followers/script-php?style=for-the-badge&logo=stylelint&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=script-php&style=for-the-badge&logo=Streamlit&color=blueviolet&logo=Bookmeter">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/script-php?style=for-the-badge&logo=Streamlit&color=blueviolet">
 </p>
