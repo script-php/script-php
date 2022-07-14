@@ -1,2 +1,50 @@
-# scrip-php
-𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒾𝓈𝓃'𝓉 𝒶𝒷𝑜𝓊𝓉 𝓌𝒽𝒶𝓉 𝓎𝑜𝓊 𝓀𝓃𝑜𝓌; 𝒾𝓉'𝓈 𝒶𝒷𝑜𝓊𝓉 𝓌𝒽𝒶𝓉 𝓎𝑜𝓊 𝒸𝒶𝓃 𝒻𝒾𝑔𝓊𝓇𝑒 𝑜𝓊𝓉.
+<!--
+  Hi skiddy, Lot of people copy / paste my readme please don't remove this line !
+
+  >> Github:  https://github.com/Its-Vichy
+
+  Thanks <3
+-->
+----
+```md
+➜ ./yoyo/readme.md ~ git:(master) ✗ sudo apt-get install neofetch -y && neofetch
+
+									| https://github.com/script-php
+ \ \ / /   ___   \ \ / /   ___  	| -----------------------------
+  \ V /   / _ \   \ V /   / _ \ 	| 
+   | |   | (_) |   | |   | (_) |	| 📧・l.voinea@yahoo.com.
+   |_|    \___/    |_|    \___/ 	| 📝・26 Years old.
+									| 🏴・Romania.
+   
+➜ ./yoyo/readme.md ~ git:(master) ✗ tree
+.
+├── Language
+│   ├── HTML
+│   ├── CSS
+│   ├── Javascript
+│   ├── PHP
+|   ├── Python
+│   └── Java
+|
+├── Learning
+│   ├── Everything
+│   └── How to smile.
+|
+├── Framework
+│   ├── Symfony
+│   └── Laravel
+|
+└── Backend_Dev.txt
+
+3 directory, 11 files
+
+➜ ./yoyo/readme.md ~ git:(master) ✗ 
+```
+
+-----
+
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/script-php?style=for-the-badge&logo=stylelint&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=script-php&style=for-the-badge&logo=Streamlit&color=blueviolet&logo=Bookmeter">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/script-php?style=for-the-badge&logo=Streamlit&color=blueviolet">
+</p>
