@@ -1,8 +1,6 @@
 <!--
   Hi skiddy, Lot of people copy / paste my readme please don't remove this line !
-
   >> Github:  https://github.com/Its-Vichy
-
   Thanks <3
 -->
 ----
