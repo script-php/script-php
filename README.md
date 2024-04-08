@@ -9,9 +9,9 @@
 
                                         | https://github.com/script-php
  \ \ / /   ___   \ \ / /   ___  	| -----------------------------
-  \ V /   / _ \   \ V /   / _ \ 	| 
+  \ V /   / _ \   \ V /   / _ \ 	| I write code even the computer can't understand
    | |   | (_) |   | |   | (_) |	| 📧・l.voinea@yahoo.com.
-   |_|    \___/    |_|    \___/ 	| 📝・26 Years old.
+   |_|    \___/    |_|    \___/ 	| 📝・27 Years old.
 					| 🏴・Romania.
    
 ➜ ./yoyo/readme.md ~ git:(master) ✗ tree
