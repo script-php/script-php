@@ -1,20 +1,20 @@
 <!--
   Hi skiddy, Lot of people copy / paste my readme please don't remove this line !
-  >> Github:  https://github.com/Its-Vichy
+  >> Github:  https://github.com/script-php
   Thanks <3
 -->
 ----
 ```md
-➜ ./yoyo/readme.md ~ git:(master) ✗ sudo apt-get install neofetch -y && neofetch
+➜ ./script-php/readme.md ~ git:(master) ✗ sudo apt-get install neofetch -y && neofetch
 
                                         | https://github.com/script-php
  \ \ / /   ___   \ \ / /   ___  	| -----------------------------
   \ V /   / _ \   \ V /   / _ \ 	| I write code even the computer can't understand
    | |   | (_) |   | |   | (_) |	| 📧・l.voinea@yahoo.com.
-   |_|    \___/    |_|    \___/ 	| 📝・27 Years old.
+   |_|    \___/    |_|    \___/ 	| 📝・28 Years old.
 					| 🏴・Romania.
    
-➜ ./yoyo/readme.md ~ git:(master) ✗ tree
+➜ ./script-php/readme.md ~ git:(master) ✗ tree
 .
 ├── Language
 │   ├── HTML
@@ -36,7 +36,7 @@
 
 3 directory, 11 files
 
-➜ ./yoyo/readme.md ~ git:(master) ✗ 
+➜ ./script-php/readme.md ~ git:(master) ✗ 
 ```
 
 -----
