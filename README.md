@@ -7,12 +7,12 @@
 ```md
 ➜ ./script-php/readme.md ~ git:(master) ✗ sudo apt-get install neofetch -y && neofetch
 
-                                        | https://github.com/script-php
+									| https://github.com/script-php
  \ \ / /   ___   \ \ / /   ___  	| -----------------------------
   \ V /   / _ \   \ V /   / _ \ 	| I write code even the computer can't understand
    | |   | (_) |   | |   | (_) |	| 📧・l.voinea@yahoo.com.
    |_|    \___/    |_|    \___/ 	| 📝・29 Years old.
-					| 🏴・Romania.
+									| 🏴・Romania.
    
 ➜ ./script-php/readme.md ~ git:(master) ✗ tree
 .
